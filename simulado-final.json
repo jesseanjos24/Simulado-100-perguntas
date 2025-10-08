@@ -1,0 +1,2904 @@
+{
+  "questions": [
+    {
+      "questionNumber": 1,
+      "question": "A atual legislação que rege o trânsito de qualquer natureza nas vias terrestres do território nacional, abertas à circulação, é denominada:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Código Nacional de Trânsito (CNT).",
+          "rationale": "O nome oficial e atual da legislação de trânsito brasileira é Código de Trânsito Brasileiro (CTB), Lei $\\text{n}^{\\circ} 9.503/97$.",
+          "isCorrect": false
+        },
+        {
+          "text": "Código Brasileiro de Trânsito.",
+          "rationale": "O nome oficial e atual da legislação de trânsito brasileira é Código de Trânsito Brasileiro (CTB), Lei $\\text{n}^{\\circ} 9.503/97$.",
+          "isCorrect": false
+        },
+        {
+          "text": "Código de Trânsito Brasileiro (CTB).",
+          "rationale": "O CTB (Lei $\\text{n}^{\\circ} 9.503$, de $23$ de setembro de $1997$) é a legislação federal que define as regras para todo o trânsito terrestre no Brasil.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lei de Trânsito e Transporte (LTT).",
+          "rationale": "O nome oficial e atual da legislação de trânsito brasileira é Código de Trânsito Brasileiro (CTB), Lei $\\text{n}^{\\circ} 9.503/97$.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se do nome completo e oficial da lei federal.",
+      "isCorrect": true
+    },
+    {
+      "questionNumber": 2,
+      "question": "Segundo o Código de Trânsito Brasileiro, considera-se trânsito a utilização das vias por:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Somente veículos motorizados e seus condutores habilitados.",
+          "rationale": "O conceito de trânsito é mais abrangente, incluindo todos os usuários da via.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pessoas, veículos e animais, isolados ou em grupos, conduzidos ou não.",
+          "rationale": "Esta é a definição legal e completa de trânsito conforme o Art. $1^{\\circ}$ do CTB.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pessoas e animais, conduzidos ou não, exceto veículos.",
+          "rationale": "A definição deve incluir veículos, que são parte essencial da utilização das vias.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas veículos e pedestres nas áreas urbanas.",
+          "rationale": "A definição legal de trânsito se aplica tanto às áreas urbanas quanto às rurais e inclui animais.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense em todos os elementos que podem interagir em uma via.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 3,
+      "question": "A utilização das vias por pessoas, veículos e animais é permitida para quais fins, conforme o CTB?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Circulação, Parada e Estacionamento.",
+          "rationale": "A definição legal inclui uma quarta finalidade específica relacionada à logística de transporte.",
+          "isCorrect": false
+        },
+        {
+          "text": "Circulação, Parada, Estacionamento e Operação de Carga ou Descarga.",
+          "rationale": "O CTB lista estas quatro finalidades essenciais que caracterizam o uso legal das vias terrestres.",
+          "isCorrect": true
+        },
+        {
+          "text": "Somente para Circulação e Parada.",
+          "rationale": "A definição legal é mais completa e inclui as manobras de imobilização do veículo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Circulação, Estacionamento e transporte de Passageiros.",
+          "rationale": "O termo correto no CTB é 'Operação de Carga ou Descarga' e não 'transporte de passageiros'.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da finalidade que envolve o manuseio de mercadorias.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 4,
+      "question": "Qual órgão do Sistema Nacional de Trânsito (SNT) é o responsável máximo por estabelecer as normas e diretrizes da Política Nacional de Trânsito?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Departamento Nacional de Trânsito (DENATRAN / SENATRAN).",
+          "rationale": "O SENATRAN é o órgão executivo máximo da União, mas o CONTRAN é o órgão normativo, que cria as regras.",
+          "isCorrect": false
+        },
+        {
+          "text": "Departamento Estadual de Trânsito (DETRAN).",
+          "rationale": "O DETRAN é um órgão executivo estadual, responsável pela habilitação e registro de veículos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polícia Rodoviária Federal (PRF).",
+          "rationale": "A PRF é um órgão fiscalizador, responsável pelo patrulhamento das rodovias federais.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conselho Nacional de Trânsito (CONTRAN).",
+          "rationale": "O CONTRAN é o órgão máximo normativo, consultivo e coordenador do SNT, responsável pela criação das resoluções.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Pense no Conselho que está no topo da hierarquia e tem o poder de criar as 'normas'.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 5,
+      "question": "O policiamento ostensivo e a fiscalização de trânsito nas rodovias e estradas federais são de competência da:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Polícia Militar dos Estados.",
+          "rationale": "A Polícia Militar atua no policiamento ostensivo das vias urbanas e estaduais, mas não nas federais.",
+          "isCorrect": false
+        },
+        {
+          "text": "Polícia Rodoviária Federal (PRF).",
+          "rationale": "A PRF é responsável pela segurança, policiamento e fiscalização das rodovias e estradas federais.",
+          "isCorrect": true
+        },
+        {
+          "text": "Conselho Nacional de Trânsito (CONTRAN).",
+          "rationale": "O CONTRAN é o órgão normativo e não o executivo de fiscalização.",
+          "isCorrect": false
+        },
+        {
+          "text": "Departamento Nacional de Infraestrutura de Transportes (DNIT).",
+          "rationale": "O DNIT é responsável pela infraestrutura das rodovias federais, e não diretamente pela fiscalização ostensiva.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Qual força policial tem jurisdição sobre as rodovias que cruzam o país?",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 6,
+      "question": "A validade da Carteira Nacional de Habilitação (CNH) para condutores com idade inferior a $50$ anos é de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$5$ anos.",
+          "rationale": "O prazo de validade da CNH foi alterado pela Lei $\\text{n}^{\\circ} 14.071/20$, sendo $5$ anos o prazo para condutores entre $50$ e $70$ anos.",
+          "isCorrect": false
+        },
+        {
+          "text": "$10$ anos.",
+          "rationale": "A validade é de $10$ anos para condutores com idade inferior a $50$ anos, conforme a Lei $\\text{n}^{\\circ} 14.071/20$.",
+          "isCorrect": true
+        },
+        {
+          "text": "$8$ anos.",
+          "rationale": "O prazo de $8$ anos não é um prazo de validade estabelecido pelo CTB.",
+          "isCorrect": false
+        },
+        {
+          "text": "$3$ anos.",
+          "rationale": "O prazo de $3$ anos é o prazo para condutores com $70$ anos ou mais.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da alteração mais recente na legislação que estabeleceu novos prazos de validade.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 7,
+      "question": "A Permissão para Dirigir (PPD) é o primeiro documento de habilitação e tem validade de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$6$ meses.",
+          "rationale": "O prazo é maior que $6$ meses, sendo um ano completo para o período probatório.",
+          "isCorrect": false
+        },
+        {
+          "text": "$1$ ano.",
+          "rationale": "A PPD é válida por $1$ ano, período em que o condutor é avaliado e não pode cometer infrações graves, gravíssimas ou ser reincidente em médias.",
+          "isCorrect": true
+        },
+        {
+          "text": "$2$ anos.",
+          "rationale": "O prazo de $2$ anos não é o prazo de validade da PPD.",
+          "isCorrect": false
+        },
+        {
+          "text": "Até a primeira infração.",
+          "rationale": "O documento tem validade de $1$ ano, mas o direito de dirigir pode ser cassado se cometer infração grave, gravíssima ou for reincidente em média.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Este documento marca o início do período probatório do novo condutor.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 8,
+      "question": "Para conduzir veículos de carga com Peso Bruto Total (PBT) superior a $3.500 \\text{ kg}$, a categoria de habilitação exigida é a:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Categoria B.",
+          "rationale": "A Categoria B permite veículos com PBT de até $3.500 \\text{ kg}$.",
+          "isCorrect": false
+        },
+        {
+          "text": "Categoria C.",
+          "rationale": "A Categoria C é exigida para veículos motorizados utilizados no transporte de carga, cujo PBT exceda $3.500 \\text{ kg}$.",
+          "isCorrect": true
+        },
+        {
+          "text": "Categoria D.",
+          "rationale": "A Categoria D é específica para o transporte de passageiros (mais de $8$ lugares).",
+          "isCorrect": false
+        },
+        {
+          "text": "Categoria E.",
+          "rationale": "A Categoria E é para combinações de veículos, onde a unidade tratora se enquadra na C, D ou B e a unidade acoplada tem mais de $6.000 \\text{ kg}$.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da categoria específica para o transporte de carga pesada.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 9,
+      "question": "O condutor habilitado na categoria B deve ter, no mínimo, quantos anos de experiência para solicitar a mudança para a categoria D?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$1$ ano.",
+          "rationale": "O prazo de $1$ ano é válido para quem já possui a Categoria C e deseja mudar para a D.",
+          "isCorrect": false
+        },
+        {
+          "text": "$2$ anos.",
+          "rationale": "É exigido que o condutor esteja habilitado na Categoria B há, no mínimo, $2$ anos para mudar para a Categoria D.",
+          "isCorrect": true
+        },
+        {
+          "text": "$3$ anos.",
+          "rationale": "O prazo mínimo é de $2$ anos na Categoria B.",
+          "isCorrect": false
+        },
+        {
+          "text": "Não há exigência de tempo, apenas de idade.",
+          "rationale": "Há exigências de idade e tempo mínimo de experiência na categoria inferior.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O prazo mínimo para a categoria D, vindo da B, é o dobro do prazo para quem vem da C.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 10,
+      "question": "Dirigir com a Carteira Nacional de Habilitação (CNH) vencida por mais de $30$ dias é considerado infração de natureza:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Leve, sujeita apenas à advertência por escrito.",
+          "rationale": "A infração por dirigir com a CNH vencida é uma das mais severas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Média, com 4 pontos na CNH.",
+          "rationale": "A infração por dirigir com a CNH vencida é de natureza Gravíssima.",
+          "isCorrect": false
+        },
+        {
+          "text": "Grave, sujeita à retenção do veículo.",
+          "rationale": "A infração por dirigir com a CNH vencida é de natureza Gravíssima, e não Grave.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gravíssima, com multa e $7$ pontos na CNH.",
+          "rationale": "Esta é uma infração gravíssima (multiplicada $1$), com multa e retenção do veículo até a apresentação de condutor habilitado.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Pense no nível de risco que um condutor sem avaliação médica recente representa.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 11,
+      "question": "A penalidade de Cassação da CNH implica que o condutor só poderá requerer nova habilitação após:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Imediatamente, bastando pagar a multa.",
+          "rationale": "A Cassação é a penalidade mais severa e impõe um prazo de impedimento para a obtenção de nova CNH.",
+          "isCorrect": false
+        },
+        {
+          "text": "$1$ ano.",
+          "rationale": "O prazo de $1$ ano é o mínimo para a suspensão, mas a cassação tem um prazo maior.",
+          "isCorrect": false
+        },
+        {
+          "text": "$2$ anos.",
+          "rationale": "O condutor penalizado com a Cassação da CNH deverá aguardar $2$ anos antes de poder iniciar o processo para se reabilitar (tirar uma nova PPD).",
+          "isCorrect": true
+        },
+        {
+          "text": "$3$ anos.",
+          "rationale": "O prazo de impedimento após a cassação é de $2$ anos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta é a penalidade máxima. O prazo de espera é o dobro do mínimo para a suspensão.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 12,
+      "question": "Se um condutor for flagrado dirigindo com o direito de dirigir suspenso, ele será penalizado com:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Multa e $7$ pontos, apenas.",
+          "rationale": "Dirigir com o direito suspenso é uma infração que agrava a penalidade.",
+          "isCorrect": false
+        },
+        {
+          "text": "Advertência por escrito e apreensão do veículo.",
+          "rationale": "A penalidade é muito mais severa do que uma simples advertência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cassação da CNH.",
+          "rationale": "Dirigir durante o período de suspensão é um dos principais motivos que levam o condutor à Cassação do documento de habilitação.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uma nova suspensão, dobrando o prazo anterior.",
+          "rationale": "A penalidade correta é a Cassação, que invalida o documento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Essa atitude demonstra total desrespeito à lei e resulta na penalidade máxima.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 13,
+      "question": "A placa de regulamentação R-1, de formato octogonal e cor vermelha, indica:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Dê a Preferência.",
+          "rationale": "Dê a Preferência é a placa R-2, que possui formato triangular invertido.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parada Obrigatória.",
+          "rationale": "A placa R-1 (com a inscrição PARE) indica ao condutor que ele deve parar antes de prosseguir.",
+          "isCorrect": true
+        },
+        {
+          "text": "Proibido Ultrapassar.",
+          "rationale": "Proibido Ultrapassar é uma sinalização horizontal ou a placa R-7 (com o desenho de dois veículos).",
+          "isCorrect": false
+        },
+        {
+          "text": "Sentido Proibido.",
+          "rationale": "Sentido Proibido é a placa R-3 (círculo vermelho com um traço branco horizontal).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Qual é a única placa de regulamentação que não tem formato circular?",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 14,
+      "question": "A placa R-2 (triangular invertida) DÊ A PREFERÊNCIA, determina que o condutor deve:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Parar obrigatoriamente, independente do fluxo.",
+          "rationale": "A parada é obrigatória apenas na placa R-1 (PARE).",
+          "isCorrect": false
+        },
+        {
+          "text": "Reduzir a velocidade e, se necessário, parar para ceder a passagem.",
+          "rationale": "A placa R-2 exige que o condutor reduza a velocidade e só pare se for preciso ceder a passagem, diferentemente da R-1.",
+          "isCorrect": true
+        },
+        {
+          "text": "Seguir em frente, pois a preferência é do veículo que se aproxima pela direita.",
+          "rationale": "A placa R-2 exige que a preferência seja cedida, independentemente da regra geral da direita.",
+          "isCorrect": false
+        },
+        {
+          "text": "Avançar rapidamente para liberar o cruzamento.",
+          "rationale": "A atitude correta é a de prudência e redução da velocidade.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da diferença crucial entre a obrigatoriedade da R-1 e a condicionalidade da R-2.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 15,
+      "question": "Qual placa de regulamentação proíbe o movimento de virar à direita?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "R-3.",
+          "rationale": "A placa R-3 indica 'Sentido Proibido'.",
+          "isCorrect": false
+        },
+        {
+          "text": "R-4a.",
+          "rationale": "A placa R-4a (seta para a direita cortada por uma tarja vermelha) proíbe especificamente o movimento de conversão à direita.",
+          "isCorrect": true
+        },
+        {
+          "text": "R-4b.",
+          "rationale": "A placa R-4b proíbe o movimento de virar à esquerda.",
+          "isCorrect": false
+        },
+        {
+          "text": "R-5.",
+          "rationale": "A placa R-5 proíbe o retorno.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A proibição de virar à direita é a letra 'a' de um conjunto de proibições de conversão.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 16,
+      "question": "A placa circular R-6a (Proibido Estacionar) proíbe o estacionamento. O que esta placa permite ao condutor?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "A parada rápida por mais de $5$ minutos.",
+          "rationale": "Parada rápida não é um termo técnico no CTB; parar por mais de $5$ minutos é considerado estacionamento.",
+          "isCorrect": false
+        },
+        {
+          "text": "A operação de carga e descarga.",
+          "rationale": "A placa R-6a proíbe o estacionamento, mas permite a parada (imobilização do veículo por tempo estritamente necessário para embarque ou desembarque de passageiros).",
+          "isCorrect": true
+        },
+        {
+          "text": "A parada por qualquer motivo, desde que o condutor permaneça no veículo.",
+          "rationale": "O tempo de imobilização deve ser o estritamente necessário para embarque/desembarque (parada).",
+          "isCorrect": false
+        },
+        {
+          "text": "Somente a circulação.",
+          "rationale": "A parada, que é o ato de embarcar ou desembarcar passageiros, é permitida.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense na diferença legal entre 'parar' e 'estacionar'.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 17,
+      "question": "A placa de advertência A-1a, que apresenta o desenho de uma curva acentuada para a esquerda, adverte sobre:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Pista sinuosa à esquerda.",
+          "rationale": "Pista sinuosa (A-37) indica mais de três curvas em sequência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Curva acentuada à esquerda.",
+          "rationale": "As placas A-1a e A-1b alertam sobre curvas acentuadas, que exigem redução de velocidade e atenção imediata.",
+          "isCorrect": true
+        },
+        {
+          "text": "Bifurcação em Y.",
+          "rationale": "Bifurcação em Y é a placa A-24.",
+          "isCorrect": false
+        },
+        {
+          "text": "Entroncamento Oblíquo à esquerda.",
+          "rationale": "Entroncamento Oblíquo é a placa A-22.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Foque no nível de perigo: é apenas uma curva, mas é perigosa.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 18,
+      "question": "A placa A-12 (Intersecção em Cruz) adverte o condutor sobre:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "A obrigatoriedade de parar devido ao cruzamento em nível.",
+          "rationale": "Placas de Advertência apenas alertam e não impõem obrigatoriedade de parada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Um cruzamento de vias sem semáforo, exigindo atenção e redução de velocidade.",
+          "rationale": "A placa A-12 adverte sobre o encontro de vias, que exige o cumprimento das regras de preferência e atenção redobrada.",
+          "isCorrect": true
+        },
+        {
+          "text": "Uma rodovia que cruza uma ferrovia.",
+          "rationale": "O cruzamento com ferrovia é sinalizado pela placa A-40.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obras à frente.",
+          "rationale": "Obras são sinalizadas pela cor laranja e placas específicas (A-41).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta placa alerta para o ponto onde as regras de preferência se aplicam.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 19,
+      "question": "A placa de advertência A-19, que exibe o desenho de um cervo, é usada para alertar sobre:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Animais na via (domésticos, como gado).",
+          "rationale": "Animais domésticos (como gado) são representados pela placa A-31.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pecuária à frente.",
+          "rationale": "A placa adverte sobre a presença potencial de animais selvagens, e não de fazendas.",
+          "isCorrect": false
+        },
+        {
+          "text": "Animais selvagens.",
+          "rationale": "Esta placa alerta para a área de travessia ou presença frequente de animais selvagens, como cervos ou capivaras.",
+          "isCorrect": true
+        },
+        {
+          "text": "Jardim Zoológico próximo.",
+          "rationale": "Placas de advertência indicam perigos ou condições da via, e não pontos turísticos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no tipo de animal que você encontraria em áreas de reserva ou mata.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 20,
+      "question": "Uma linha contínua (amarela ou branca) pintada na pista proíbe:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "O estacionamento e a parada.",
+          "rationale": "Estacionamento e parada são proibidos por sinalização vertical (placas) ou por faixas contínuas amarelas laterais (meio-fio), mas não pela linha longitudinal contínua central.",
+          "isCorrect": false
+        },
+        {
+          "text": "O trânsito de veículos pesados.",
+          "rationale": "O trânsito de veículos pesados é proibido por placas de regulamentação.",
+          "isCorrect": false
+        },
+        {
+          "text": "A ultrapassagem e os deslocamentos laterais (mudança de faixa).",
+          "rationale": "Linhas contínuas longitudinais (sejam divisoras de fluxos opostos - amarela, ou do mesmo fluxo - branca) proíbem qualquer transposição de faixa.",
+          "isCorrect": true
+        },
+        {
+          "text": "A conversão à esquerda, apenas.",
+          "rationale": "Proíbe a transposição para ambos os lados.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O principal objetivo da linha contínua é impedir a invasão do fluxo oposto ou adjacente.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 21,
+      "question": "Qual marcação horizontal indica o local exato onde o condutor deve parar, quando houver semáforo ou placa de 'PARE'?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Linha de Canalização.",
+          "rationale": "Linhas de Canalização direcionam o tráfego e separam fluxos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faixa de Pedestres.",
+          "rationale": "A faixa de pedestres indica o local de travessia de pedestres, mas a parada deve ser feita antes dela.",
+          "isCorrect": false
+        },
+        {
+          "text": "Linha de Retenção.",
+          "rationale": "A Linha de Retenção (faixa branca transversal à pista) é a sinalização que define o limite onde o veículo deve aguardar.",
+          "isCorrect": true
+        },
+        {
+          "text": "Linha de Borda de Pista.",
+          "rationale": "A Linha de Borda de Pista delimita o limite lateral da pista.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "É uma linha transversal que 'segura' o veículo antes do ponto de conflito.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 22,
+      "question": "No conceito de Direção Defensiva, o pilar que significa **antecipar-se** aos riscos e perigos do trânsito é:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Conhecimento.",
+          "rationale": "Conhecimento é sobre a legislação, o veículo e o meio ambiente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Previsão.",
+          "rationale": "A Previsão é a capacidade de antever situações de perigo com base na experiência e observação, sendo um dos cinco pilares.",
+          "isCorrect": true
+        },
+        {
+          "text": "Habilidade.",
+          "rationale": "Habilidade é o domínio do veículo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Decisão.",
+          "rationale": "Decisão é a escolha da melhor atitude a tomar após prever e analisar o perigo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta atitude permite ao condutor agir antes que a situação de perigo se concretize.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 23,
+      "question": "O pilar da Direção Defensiva que exige que o condutor domine a legislação, o veículo e o meio ambiente é:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Atenção.",
+          "rationale": "Atenção é focar no que acontece ao redor (condições adversas e outros usuários).",
+          "isCorrect": false
+        },
+        {
+          "text": "Habilidade.",
+          "rationale": "Habilidade é a destreza para manipular os comandos do veículo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Decisão.",
+          "rationale": "Decisão é a escolha da melhor ação após o perigo ser identificado e analisado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conhecimento.",
+          "rationale": "O Conhecimento é a base teórica, envolvendo as leis, o funcionamento do veículo e os riscos ambientais.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Esta base teórica é o primeiro passo para dirigir de forma segura.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 24,
+      "question": "Em caso de chuva intensa, além de reduzir a velocidade e aumentar a distância de seguimento, qual luz o condutor deve usar?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Farol alto.",
+          "rationale": "O farol alto reflete na água e ofusca a visão do próprio condutor, sendo ineficaz.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pisca-alerta, para sinalizar o perigo.",
+          "rationale": "O pisca-alerta só deve ser usado em caso de imobilização ou situação de emergência comprovada.",
+          "isCorrect": false
+        },
+        {
+          "text": "Farol baixo.",
+          "rationale": "O farol baixo aumenta a visibilidade do veículo para os outros motoristas e não ofusca a visão.",
+          "isCorrect": true
+        },
+        {
+          "text": "Faróis de neblina e luzes de posição, apenas.",
+          "rationale": "O farol baixo é o mais adequado para a chuva, garantindo visibilidade frontal e traseira.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O objetivo é ser visto, sem ofuscar a visão de quem vem no sentido contrário.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 25,
+      "question": "A distância percorrida pelo veículo desde que o condutor vê o perigo até o momento em que ele aciona os freios é chamada de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Distância de Frenagem.",
+          "rationale": "A Distância de Frenagem começa após os freios serem acionados.",
+          "isCorrect": false
+        },
+        {
+          "text": "Distância de Parada.",
+          "rationale": "A Distância de Parada é a soma da Distância de Reação e da Distância de Frenagem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Distância de Reação.",
+          "rationale": "Esta é a distância percorrida durante o tempo que o condutor leva para tomar a decisão e reagir ao perigo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Distância de Segurança.",
+          "rationale": "A Distância de Segurança é a margem total mantida entre os veículos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta distância depende diretamente da condição física e mental do condutor.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 26,
+      "question": "A 'Regra dos dois segundos' é uma técnica de Direção Defensiva que visa manter a distância de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Frenagem do veículo.",
+          "rationale": "A Regra dos dois segundos abrange mais do que apenas a frenagem, focando no seguimento total.",
+          "isCorrect": false
+        },
+        {
+          "text": "Parada total em emergências.",
+          "rationale": "A regra visa a distância de seguimento, que deve ser suficiente para garantir a parada total em segurança.",
+          "isCorrect": false
+        },
+        {
+          "text": "Seguimento entre o seu veículo e o que está à sua frente.",
+          "rationale": "A regra é usada para manter uma margem de tempo segura que compense o tempo de reação e frenagem em situações normais e adversas.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lateral em ultrapassagens.",
+          "rationale": "A distância lateral é medida em metros (mínimo $1,5 \\text{ m}$ para bicicletas).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Essa regra compensa o seu tempo de reação e a distância que o veículo percorre enquanto você pensa.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 27,
+      "question": "O fenômeno de perda de contato do pneu com o solo devido à formação de uma 'lâmina' ou 'cunha' de água é conhecido como:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Efeito Estufa.",
+          "rationale": "Efeito Estufa é um fenômeno ambiental.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aquaplanagem ou Hidroplanagem.",
+          "rationale": "A Aquaplanagem (ou Hidroplanagem) é a perda de aderência que causa a flutuação do veículo, impedindo a frenagem e o controle direcional.",
+          "isCorrect": true
+        },
+        {
+          "text": "Derrapagem.",
+          "rationale": "Derrapagem é a perda de aderência por excesso de velocidade ou frenagem brusca.",
+          "isCorrect": false
+        },
+        {
+          "text": "Embreagem úmida.",
+          "rationale": "Embreagem úmida refere-se a problemas no sistema de transmissão.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O prefixo do termo se refere à água.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 28,
+      "question": "A função principal do fluido de freio no sistema de frenagem é:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Lubrificar as pastilhas e discos.",
+          "rationale": "As pastilhas e discos não são lubrificados, pois a lubrificação diminuiria o atrito necessário para a frenagem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Resfriar os componentes do sistema, como o cilindro mestre.",
+          "rationale": "O fluido ajuda no resfriamento, mas sua função primária é a transmissão de força.",
+          "isCorrect": false
+        },
+        {
+          "text": "Transmitir a força exercida no pedal para as rodas (função hidráulica).",
+          "rationale": "O fluido é o responsável por propagar a pressão do pedal até as rodas, acionando as pastilhas/lonas.",
+          "isCorrect": true
+        },
+        {
+          "text": "Aumentar o atrito entre as peças.",
+          "rationale": "O atrito é gerado pelas pastilhas/lonas, e não pelo fluido.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O sistema de freios é hidráulico. Pense em como a pressão é transferida.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 29,
+      "question": "O sistema de suspensão (amortecedores e molas) tem como principal função:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Apenas reduzir o consumo de combustível.",
+          "rationale": "A suspensão não tem como foco principal a economia de combustível.",
+          "isCorrect": false
+        },
+        {
+          "text": "Amortecer os impactos do piso, garantir a estabilidade e manter o contato das rodas com o solo.",
+          "rationale": "O sistema de suspensão garante conforto, mas, principalmente, segurança ao manter a roda em contato permanente com o chão, o que é vital para a frenagem e dirigibilidade.",
+          "isCorrect": true
+        },
+        {
+          "text": "Realizar a troca de marchas.",
+          "rationale": "Troca de marchas é função do sistema de transmissão.",
+          "isCorrect": false
+        },
+        {
+          "text": "Evitar o desgaste excessivo dos pneus.",
+          "rationale": "A suspensão controla o movimento, mas o desgaste é evitado por alinhamento e balanceamento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no conforto do passageiro e, principalmente, na segurança do veículo em pisos irregulares.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 30,
+      "question": "O catalisador, componente instalado no sistema de escapamento, tem a função de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Reduzir o ruído do motor.",
+          "rationale": "O silenciador é o componente do escapamento que reduz o ruído.",
+          "isCorrect": false
+        },
+        {
+          "text": "Converter gases poluentes (tóxicos) em gases menos nocivos.",
+          "rationale": "O catalisador atua quimicamente, transformando gases como Monóxido de Carbono (CO) e Óxidos de Nitrogênio ($\text{NO}_x$) em água, Nitrogênio e Dióxido de Carbono ($\text{CO}_2$).",
+          "isCorrect": true
+        },
+        {
+          "text": "Aumentar a potência do motor.",
+          "rationale": "O catalisador não tem a função de aumentar a potência.",
+          "isCorrect": false
+        },
+        {
+          "text": "Filtrar a sujeira do combustível.",
+          "rationale": "O filtro de combustível é o responsável por essa função.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Este componente é fundamental para o controle de emissão de poluentes e o meio ambiente.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 31,
+      "question": "A bateria é o componente do sistema elétrico que fornece energia para qual sistema do veículo?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Apenas para o acionamento do motor de partida (arranque).",
+          "rationale": "A bateria também alimenta diversos outros componentes elétricos quando o motor está desligado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Exclusivamente para o sistema de iluminação (faróis).",
+          "rationale": "O sistema de iluminação é apenas uma das partes alimentadas pela bateria.",
+          "isCorrect": false
+        },
+        {
+          "text": "Para o motor de partida e todos os componentes elétricos quando o motor está desligado ou em marcha lenta.",
+          "rationale": "A bateria tem como principal função inicial dar a partida no motor e suprir todos os consumidores elétricos quando o alternador não está gerando energia suficiente.",
+          "isCorrect": true
+        },
+        {
+          "text": "Somente para o sistema de ignição.",
+          "rationale": "O sistema de ignição é apenas uma das partes alimentadas pela bateria.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense na função da bateria quando você liga o carro.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 32,
+      "question": "Para evitar o desgaste irregular e prolongar a vida útil dos pneus, deve-se realizar periodicamente:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "A calibragem e a limpeza dos sulcos.",
+          "rationale": "A calibragem é fundamental, mas não é a única ação para evitar o desgaste irregular.",
+          "isCorrect": false
+        },
+        {
+          "text": "A troca do óleo e do filtro.",
+          "rationale": "Troca de óleo e filtro se referem ao sistema de lubrificação do motor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Rodízio, alinhamento e balanceamento.",
+          "rationale": "Estas três ações corrigem o desgaste desigual (rodízio), o desvio direcional (alinhamento) e as trepidações (balanceamento), garantindo maior vida útil e segurança.",
+          "isCorrect": true
+        },
+        {
+          "text": "A substituição do fluido de freio.",
+          "rationale": "A substituição do fluido de freio se refere ao sistema de freios.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Estas manutenções corrigem a geometria do veículo e o peso das rodas.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 33,
+      "question": "O uso excessivo e desnecessário da buzina em áreas urbanas é um fator que mais contribui para:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "A poluição visual.",
+          "rationale": "Poluição visual está relacionada a excesso de placas e propagandas.",
+          "isCorrect": false
+        },
+        {
+          "text": "A poluição sonora, afetando a saúde física e mental da população.",
+          "rationale": "O ruído desnecessário é a principal causa da poluição sonora no trânsito, que tem impactos na qualidade de vida.",
+          "isCorrect": true
+        },
+        {
+          "text": "O aumento da emissão de gases poluentes.",
+          "rationale": "A emissão de gases está relacionada ao sistema de escapamento e combustão.",
+          "isCorrect": false
+        },
+        {
+          "text": "A poluição hídrica.",
+          "rationale": "Poluição hídrica está relacionada a descarte de substâncias químicas em corpos d'água.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O som emitido pela buzina deve ser usado com moderação, conforme previsto no CTB.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 34,
+      "question": "A emissão de fumaça preta e densa pelo escapamento indica, geralmente, problemas no sistema de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Arrefecimento, por superaquecimento.",
+          "rationale": "O superaquecimento pode gerar fumaça, mas a fumaça preta é característica da combustão incompleta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Suspensão e amortecedores.",
+          "rationale": "O sistema de suspensão não afeta diretamente a cor da fumaça do escapamento.",
+          "isCorrect": false
+        },
+        {
+          "text": "Combustão (carburador ou injeção eletrônica) e excesso de combustível.",
+          "rationale": "A fumaça preta é o resultado da queima incompleta do combustível, indicando que a mistura ar-combustível está muito rica (excesso de combustível).",
+          "isCorrect": true
+        },
+        {
+          "text": "Elétrico, por falha na bateria.",
+          "rationale": "O sistema elétrico não gera fumaça preta pelo escapamento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A cor preta da fumaça é resultado de resíduos de queima incompleta.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 35,
+      "question": "O descarte de óleo lubrificante usado no solo ou na rede de esgoto é uma prática:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Aceitável, desde que seja uma pequena quantidade.",
+          "rationale": "O descarte de óleo usado é proibido em qualquer quantidade, pois é altamente poluente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Permitida, pois o óleo se decompõe rapidamente.",
+          "rationale": "O óleo lubrificante não se decompõe facilmente e contamina a água e o solo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Prejudicial ao meio ambiente, pois o óleo é altamente poluente e não se dissolve na água.",
+          "rationale": "O óleo lubrificante deve ser recolhido e encaminhado para refinadoras, conforme a legislação ambiental (CONAMA).",
+          "isCorrect": true
+        },
+        {
+          "text": "Aceitável, se a troca for feita em casa.",
+          "rationale": "O descarte deve ser feito em locais adequados, como oficinas ou postos de troca de óleo, que são responsáveis pelo recolhimento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no alto potencial de contaminação da água pelo óleo.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 36,
+      "question": "Em caso de acidente de trânsito com vítimas, a primeira atitude do socorrista deve ser:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Iniciar a massagem cardíaca na vítima mais grave.",
+          "rationale": "A primeira ação é garantir a segurança do local, para evitar um segundo acidente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinalizar o local do acidente, garantir a própria segurança e chamar o socorro especializado.",
+          "rationale": "A prioridade é a segurança (Sinalizar), e a segunda é a mobilização de recursos (Chamar Socorro), antes de qualquer toque na vítima (Prestar Socorro).",
+          "isCorrect": true
+        },
+        {
+          "text": "Remover a vítima do local para um lugar seguro.",
+          "rationale": "A remoção de vítimas só deve ser feita em caso de risco iminente de morte (ex: veículo pegando fogo).",
+          "isCorrect": false
+        },
+        {
+          "text": "Verificar os documentos da vítima.",
+          "rationale": "Os documentos não são prioridade no atendimento inicial.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da ordem 'Sinalizar, Chamar, Cuidar'.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 37,
+      "question": "O procedimento inicial correto para estancar uma hemorragia externa grave em primeiros socorros é:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Aplicar um torniquete acima do ferimento.",
+          "rationale": "O torniquete só deve ser usado como último recurso, por profissionais de saúde, devido ao risco de necrose.",
+          "isCorrect": false
+        },
+        {
+          "text": "Cobrir o ferimento com um pano sujo e dar água à vítima.",
+          "rationale": "O pano deve ser limpo, e nunca se deve dar nada para a vítima beber ou comer.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aplicar pressão direta e constante sobre o ferimento, usando um pano ou gaze limpa.",
+          "rationale": "A pressão direta é o método mais eficaz e seguro para controlar a maioria das hemorragias externas.",
+          "isCorrect": true
+        },
+        {
+          "text": "Lavar o local com água e sabão para desinfetar.",
+          "rationale": "Lavar o ferimento só deve ser feito após a hemorragia estar controlada e com água limpa, se houver.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O princípio mais básico para parar o sangramento é a força aplicada diretamente na área.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 38,
+      "question": "Qual a atitude imediata ao encontrar uma vítima inconsciente que **não respira** em um acidente?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Colocá-la em posição lateral de segurança (PLS).",
+          "rationale": "A PLS é usada apenas para vítimas inconscientes que **estão respirando**.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tentar forçar a vítima a vomitar.",
+          "rationale": "Nunca se deve induzir o vômito em vítimas de acidente.",
+          "isCorrect": false
+        },
+        {
+          "text": "Iniciar as manobras de Reanimação Cardiopulmonar (RCP) e solicitar socorro.",
+          "rationale": "A prioridade máxima é a respiração. A ausência de respiração requer a RCP imediata após chamar o socorro (SAMU $192$ ou Bombeiros $193$).",
+          "isCorrect": true
+        },
+        {
+          "text": "Aplicar gelo na testa.",
+          "rationale": "Aplicar gelo não é o procedimento correto para a ausência de respiração.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Em caso de parada respiratória, a circulação e a respiração devem ser restabelecidas o mais rápido possível.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 39,
+      "question": "O que NUNCA se deve fazer ao lidar com uma vítima com fratura exposta (osso visível)?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Cobrir o ferimento com pano limpo e imobilizar o membro.",
+          "rationale": "Cobrir e imobilizar são procedimentos corretos e seguros.",
+          "isCorrect": false
+        },
+        {
+          "text": "Tentar recolocar o osso no lugar ou realinhar o membro.",
+          "rationale": "Qualquer tentativa de realinhamento pode causar mais danos a nervos, vasos e tecidos, sendo uma ação proibida para o leigo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Chamar o socorro especializado.",
+          "rationale": "Chamar o socorro é a atitude correta.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verificar a circulação do membro.",
+          "rationale": "Verificar a circulação é importante para avaliar a gravidade da lesão.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A regra principal é 'imobilizar na posição em que se encontra'.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 40,
+      "question": "Em cruzamentos não sinalizados (sem placas de PARE ou DÊ A PREFERÊNCIA, e sem semáforo), tem a preferência de passagem o veículo que:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Vier pela via mais larga.",
+          "rationale": "A largura da via só é critério de preferência em vias de fluxo igual.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estiver à direita do condutor.",
+          "rationale": "A regra da mão direita é a norma geral de preferência em intersecções não sinalizadas (exceto rotatórias e rodovias).",
+          "isCorrect": true
+        },
+        {
+          "text": "Vier pela esquerda do condutor.",
+          "rationale": "A regra geral é ceder a passagem para quem está à direita.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estiver em maior velocidade.",
+          "rationale": "A velocidade nunca é um critério de preferência e representa risco.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da regra básica de convivência em vias de igual importância.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 41,
+      "question": "Em uma rotatória (rótula) não sinalizada, tem a preferência de passagem o veículo que:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Estiver acessando a rotatória.",
+          "rationale": "O veículo que entra deve ceder a passagem a quem já está circulando.",
+          "isCorrect": false
+        },
+        {
+          "text": "Já estiver circulando por ela.",
+          "rationale": "A regra específica para rotatórias é que a preferência é do veículo que já está em seu interior, dando continuidade ao fluxo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vier pela direita do condutor.",
+          "rationale": "A regra da direita é geral, mas a rotatória tem uma regra específica de 'quem já está dentro'.",
+          "isCorrect": false
+        },
+        {
+          "text": "Estiver em menor velocidade.",
+          "rationale": "A velocidade não é um critério de preferência.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O veículo que já está girando tem prioridade para manter o fluxo.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 42,
+      "question": "O momento correto para retornar à faixa original após ultrapassar outro veículo é quando o veículo ultrapassado é visível pelo:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Retrovisor lateral esquerdo.",
+          "rationale": "O retrovisor lateral esquerdo é usado para ver quem se aproxima por trás e não para garantir o espaço seguro à frente do veículo ultrapassado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Retrovisor interno (central).",
+          "rationale": "A visibilidade pelo retrovisor interno garante que há distância suficiente para que o retorno não force o veículo ultrapassado a frear.",
+          "isCorrect": true
+        },
+        {
+          "text": "Farol do veículo ultrapassado.",
+          "rationale": "O foco deve ser a imagem completa do veículo no espelho, e não apenas o farol.",
+          "isCorrect": false
+        },
+        {
+          "text": "Quando o condutor ultrapassado piscar os faróis.",
+          "rationale": "A manobra deve ser baseada na sua avaliação de segurança, e não em sinais de terceiros.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Você deve ver o veículo inteiro, no espelho que oferece o campo de visão mais centralizado e amplo.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 43,
+      "question": "A regra geral de circulação de veículos nas vias terrestres do Brasil, segundo o CTB, é pelo lado:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Esquerdo, admitindo-se exceções em rodovias.",
+          "rationale": "A regra de circulação no Brasil é pela direita.",
+          "isCorrect": false
+        },
+        {
+          "text": "Direito da via, admitindo-se exceções devidamente sinalizadas.",
+          "rationale": "Esta é a regra de mão de direção adotada no Brasil, conforme o Art. $29$ do CTB.",
+          "isCorrect": true
+        },
+        {
+          "text": "Onde houver melhor pavimentação.",
+          "rationale": "A regra é legal, e não baseada na condição do asfalto.",
+          "isCorrect": false
+        },
+        {
+          "text": "Em qualquer lado, dependendo do volume de tráfego.",
+          "rationale": "A circulação é sempre pela direita, sendo a faixa esquerda reservada à ultrapassagem.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no lado que você usa para dirigir no Brasil (mão inglesa vs. mão brasileira).",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 44,
+      "question": "Qual infração, por si só (auto-suspensiva), resulta em suspensão direta do direito de dirigir, independente da pontuação acumulada?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Estacionar em vaga reservada a deficientes (Gravíssima, multa).",
+          "rationale": "Esta é uma infração gravíssima, mas não auto-suspensiva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dirigir sob a influência de álcool ou de qualquer outra substância psicoativa.",
+          "rationale": "Dirigir alcoolizado (Art. $165$) é uma infração gravíssima com fator multiplicador e que acarreta a suspensão do direito de dirigir por $12$ meses.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ultrapassar pela contramão (Grave, $5$ pontos).",
+          "rationale": "Ultrapassar pela contramão é infração gravíssima, mas não auto-suspensiva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Deixar de usar o cinto de segurança (Grave, $5$ pontos).",
+          "rationale": "Esta é uma infração grave, que não leva à suspensão direta.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta infração é considerada uma das mais perigosas e irresponsáveis.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 45,
+      "question": "Um ciclomotor (veículo de duas ou três rodas com motor de combustão interna) não pode exceder qual velocidade máxima de fabricação?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$40 \\text{ km/h}$.",
+          "rationale": "A velocidade máxima de um ciclomotor é de $50 \\text{ km/h}$.",
+          "isCorrect": false
+        },
+        {
+          "text": "$50 \\text{ km/h}$.",
+          "rationale": "O ciclomotor é classificado como tal se não exceder $50 \\text{ cm}^3$ de cilindrada e $50 \\text{ km/h}$ de velocidade máxima de fabricação.",
+          "isCorrect": true
+        },
+        {
+          "text": "$60 \\text{ km/h}$.",
+          "rationale": "Veículos que excedam $50 \\text{ km/h}$ já são considerados motocicletas ou motonetas.",
+          "isCorrect": false
+        },
+        {
+          "text": "$80 \\text{ km/h}$.",
+          "rationale": "Veículos que excedam $50 \\text{ km/h}$ já são considerados motocicletas ou motonetas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da regra 'cinquenta por cinquenta' (cilindradas e velocidade).",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 46,
+      "question": "A identificação externa de um veículo de duas rodas (motocicleta) é feita por meio:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Da placa dianteira e traseira.",
+          "rationale": "Veículos de duas rodas possuem apenas a placa traseira.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas por meio do número de chassi visível.",
+          "rationale": "A placa é a principal forma de identificação externa.",
+          "isCorrect": false
+        },
+        {
+          "text": "Da placa traseira com caracteres iguais ao do registro do veículo.",
+          "rationale": "Os veículos de duas ou três rodas são identificados externamente por uma única placa de identificação traseira.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas por meio do Certificado de Registro e Licenciamento do Veículo (CRLV).",
+          "rationale": "O CRLV é um documento de porte, não uma identificação externa.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense na quantidade de placas em uma motocicleta ou motoneta.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 47,
+      "question": "A placa de regulamentação R-10 (círculo com o desenho de um caminhão cortado pela tarja vermelha) proíbe:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Peso Bruto Total (PBT) acima do limite.",
+          "rationale": "O PBT é proibido pela placa R-14.",
+          "isCorrect": false
+        },
+        {
+          "text": "O trânsito de veículos lentos.",
+          "rationale": "O trânsito de veículos lentos não é regulamentado por essa placa.",
+          "isCorrect": false
+        },
+        {
+          "text": "O trânsito de caminhões.",
+          "rationale": "A placa R-10 proíbe que caminhões (veículos de carga) circulem naquela via ou trecho.",
+          "isCorrect": true
+        },
+        {
+          "text": "O transporte de cargas perigosas.",
+          "rationale": "O transporte de cargas perigosas é regulamentado por outras sinalizações e normas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A imagem do caminhão na placa indica a categoria de veículo afetada.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 48,
+      "question": "As placas de advertência, que alertam o condutor sobre perigos ou condições na via, possuem formato losangular (quadrado em diagonal) e cor predominante:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Branca, com orla vermelha.",
+          "rationale": "Esta é a descrição das placas de Regulamentação (exceto R-1 e R-2).",
+          "isCorrect": false
+        },
+        {
+          "text": "Amarela, com orla e símbolo pretos.",
+          "rationale": "As placas de advertência são amarelas e têm a função de informar sobre perigos potenciais.",
+          "isCorrect": true
+        },
+        {
+          "text": "Azul, com símbolo e orla brancos.",
+          "rationale": "Esta é a descrição das placas de Indicação de Serviços Auxiliares.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verde, com orla e símbolo brancos.",
+          "rationale": "Esta é a descrição das placas de Indicação de Destino.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A cor de advertência é a mesma cor usada em muitos alertas de segurança.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 49,
+      "question": "Qual fator de risco mais aumenta o tempo de reação de um condutor, sendo um agravante de acidentes?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Pista molhada.",
+          "rationale": "A pista molhada afeta a distância de frenagem, mas não o tempo de reação do condutor.",
+          "isCorrect": false
+        },
+        {
+          "text": "O uso de farol alto em rodovias.",
+          "rationale": "O uso de farol alto afeta a visibilidade, mas não diretamente o tempo de reação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ingestão de álcool, fadiga ou uso de celular.",
+          "rationale": "Estes fatores prejudicam o estado físico e mental, retardando a percepção do perigo e a tomada de decisão (tempo de reação).",
+          "isCorrect": true
+        },
+        {
+          "text": "O excesso de chuva.",
+          "rationale": "A chuva afeta a distância de frenagem e a visibilidade, mas não o tempo de reação, a menos que cause cansaço (fadiga).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nos elementos que afetam a capacidade cognitiva do motorista.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 50,
+      "question": "A principal função do sistema de arrefecimento (ou refrigeração) de um veículo é:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Lubrificar as peças móveis do motor.",
+          "rationale": "A lubrificação é função do óleo, e não do sistema de arrefecimento.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manter a temperatura ideal de trabalho do motor, evitando o superaquecimento.",
+          "rationale": "O sistema (composto por radiador, bomba d'água e ventoinha) remove o calor excessivo da combustão, garantindo a eficiência e a vida útil do motor.",
+          "isCorrect": true
+        },
+        {
+          "text": "Reduzir o ruído do motor.",
+          "rationale": "Redução de ruído é função do escapamento.",
+          "isCorrect": false
+        },
+        {
+          "text": "Filtrar as impurezas do ar admitido pelo motor.",
+          "rationale": "A filtragem do ar é função do filtro de ar.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O nome 'arrefecimento' está relacionado à temperatura.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 51,
+      "question": "Qual característica define uma **Via de Trânsito Rápido** (urbana)?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Vias com semáforos, intersecções em nível e acesso direto a lotes lindeiros.",
+          "rationale": "Esta é a definição de uma Via Arterial.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vias urbanas sem semáforos, sem intersecções em nível e sem acesso direto a lotes lindeiros.",
+          "rationale": "A ausência de interrupções e o fluxo livre em alta velocidade são as marcas da Via de Trânsito Rápido.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vias com velocidade máxima de $40 \\text{ km/h}$.",
+          "rationale": "A velocidade máxima de uma Via de Trânsito Rápido é de $80 \\text{ km/h}$, se não houver sinalização.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vias destinadas apenas a veículos de transporte coletivo.",
+          "rationale": "Esta é a descrição de uma Via Exclusiva para ônibus.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O nome 'rápido' implica um fluxo contínuo e sem paradas forçadas.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 52,
+      "question": "A **Via Coletora** é caracterizada por:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Vias que escoam o trânsito das vias de trânsito rápido para as vias locais.",
+          "rationale": "A função da Via Coletora é 'coletar' e 'distribuir' o trânsito entre as vias rápidas/arteriais e as vias locais.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vias de acesso direto a propriedades lindeiras, com baixa velocidade.",
+          "rationale": "Esta é a definição de uma Via Local.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vias com trânsito livre e alta velocidade ($80 \\text{ km/h}$).",
+          "rationale": "Esta é a definição de uma Via de Trânsito Rápido.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vias que ligam grandes regiões da cidade, com intersecções semaforizadas.",
+          "rationale": "Esta é a definição de uma Via Arterial.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O nome da via indica a sua função de 'reunir' o tráfego.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 53,
+      "question": "A função da **Via Arterial** em vias urbanas é:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Coletar o trânsito local para as vias mais importantes.",
+          "rationale": "Esta é a função da Via Coletora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ligar as vias de trânsito rápido e coletoras, permitindo o trânsito entre regiões da cidade. Geralmente tem intersecções com semáforos.",
+          "rationale": "As vias arteriais distribuem o trânsito de longa distância com a possibilidade de interrupções controladas (semáforos).",
+          "isCorrect": true
+        },
+        {
+          "text": "Dar acesso direto a propriedades lindeiras.",
+          "rationale": "Esta é a função da Via Local.",
+          "isCorrect": false
+        },
+        {
+          "text": "Permitir apenas o trânsito de passagem, sem paradas ou estacionamento.",
+          "rationale": "Esta é a função da Via de Trânsito Rápido.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no conceito de 'artéria': ligar grandes áreas e distribuir o fluxo principal.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 54,
+      "question": "O uso da buzina é permitido em situações específicas, exceto:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Em toques breves, para fazer as advertências necessárias a fim de evitar acidentes.",
+          "rationale": "Esta é uma das utilizações permitidas da buzina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Para chamar a atenção de alguém conhecido.",
+          "rationale": "O CTB proíbe o uso da buzina para chamar a atenção de pessoas alheias ao trânsito, sendo infração leve.",
+          "isCorrect": true
+        },
+        {
+          "text": "Fora das áreas urbanas, quando for conveniente advertir um condutor que se tem o propósito de ultrapassá-lo.",
+          "rationale": "Esta é uma das utilizações permitidas da buzina.",
+          "isCorrect": false
+        },
+        {
+          "text": "Em toques breves, antes de uma curva perigosa, em trechos de serra.",
+          "rationale": "Esta é uma das utilizações permitidas da buzina.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O CTB limita o uso da buzina estritamente a situações de segurança no trânsito.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 55,
+      "question": "O fluido de freio deve ser substituído periodicamente porque ele absorve:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Partículas de sujeira e poeira.",
+          "rationale": "O fluido pode ser contaminado, mas a principal razão da troca é a degradação química pela água.",
+          "isCorrect": false
+        },
+        {
+          "text": "Umidade (água) do ar, o que reduz seu ponto de ebulição e pode causar falha na frenagem.",
+          "rationale": "O fluido de freio é higroscópico (absorve umidade); essa água vaporiza com o calor da frenagem, gerando bolhas de vapor que causam o 'freio baixo' ou falha.",
+          "isCorrect": true
+        },
+        {
+          "text": "Excesso de óleo lubrificante do motor.",
+          "rationale": "O fluido de freio é um sistema isolado do sistema de lubrificação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gases poluentes do escapamento.",
+          "rationale": "O fluido de freio é um sistema isolado do sistema de escapamento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no componente invisível do ar que deteriora o fluido com o tempo.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 56,
+      "question": "O TWI (Tread Wear Indicator), um ressalto nos sulcos dos pneus, indica o limite mínimo legal de profundidade dos sulcos, que é de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$1,6 \\text{ mm}$.",
+          "rationale": "Rodar com pneus abaixo de $1,6 \\text{ mm}$ de profundidade é infração grave e aumenta o risco de aquaplanagem e perda de aderência.",
+          "isCorrect": true
+        },
+        {
+          "text": "$2,0 \\text{ mm}$.",
+          "rationale": "O limite legal é $1,6 \\text{ mm}$.",
+          "isCorrect": false
+        },
+        {
+          "text": "$3,0 \\text{ mm}$.",
+          "rationale": "O limite legal é $1,6 \\text{ mm}$.",
+          "isCorrect": false
+        },
+        {
+          "text": "$1,0 \\text{ mm}$.",
+          "rationale": "O limite legal é $1,6 \\text{ mm}$.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O número se refere à espessura de uma moeda pequena.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 57,
+      "question": "Em caso de acidente, o item do veículo que deve ser verificado e ajustado para evitar o agravamento de lesões cervicais é o:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Cinto de segurança, que deve ser retirado imediatamente.",
+          "rationale": "O cinto deve ser mantido, a menos que esteja atrapalhando a respiração ou o atendimento.",
+          "isCorrect": false
+        },
+        {
+          "text": "Airbag, que deve ser inspecionado.",
+          "rationale": "O airbag é um item de segurança, mas o foco aqui é a coluna cervical.",
+          "isCorrect": false
+        },
+        {
+          "text": "Volante, para liberar a saída da vítima.",
+          "rationale": "Mover o volante pode prejudicar a estabilidade do veículo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Encosto de cabeça (ajustado à altura da cabeça).",
+          "rationale": "O encosto de cabeça, quando corretamente ajustado (na altura da cabeça), evita o efeito 'chicote' e protege a coluna cervical.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Este componente, muitas vezes negligenciado, previne o trauma mais comum em colisões traseiras.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 58,
+      "question": "O uso de combustíveis de baixa qualidade ou adulterados causa, no veículo e no meio ambiente:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Aumento da vida útil do motor e economia de manutenção.",
+          "rationale": "Combustíveis de baixa qualidade prejudicam o motor e aceleram o desgaste.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas odores mais fortes no escapamento.",
+          "rationale": "Os impactos são mais graves do que apenas odores.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aumento da emissão de gases poluentes e redução da vida útil do catalisador.",
+          "rationale": "O combustível adulterado não queima corretamente, aumenta a emissão de poluentes e prejudica o catalisador, que tem dificuldades em processar esses gases.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas um aumento no consumo de combustível.",
+          "rationale": "Os impactos são mais graves do que apenas o consumo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no efeito que a combustão incompleta tem sobre os sistemas antipoluentes.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 59,
+      "question": "Ao ultrapassar uma bicicleta, a distância lateral mínima obrigatória que o condutor de veículo automotor deve manter é de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$1,0 \\text{ m}$.",
+          "rationale": "A distância mínima de segurança exigida por lei é de $1,5 \\text{ m}$.",
+          "isCorrect": false
+        },
+        {
+          "text": "$1,5 \\text{ m}$.",
+          "rationale": "O Art. $201$ do CTB estabelece a distância lateral de segurança de $1,5 \\text{ m}$ ao ultrapassar bicicletas.",
+          "isCorrect": true
+        },
+        {
+          "text": "$2,0 \\text{ m}$.",
+          "rationale": "O limite legal é $1,5 \\text{ m}$.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas a que julgar segura.",
+          "rationale": "A lei impõe uma distância mínima obrigatória.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da medida específica para proteger os ciclistas.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 60,
+      "question": "Qual a pontuação atribuída na CNH por uma infração de natureza Grave?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$3$ pontos.",
+          "rationale": "$3$ pontos são atribuídos a infrações de natureza Leve.",
+          "isCorrect": false
+        },
+        {
+          "text": "$4$ pontos.",
+          "rationale": "$4$ pontos são atribuídos a infrações de natureza Média.",
+          "isCorrect": false
+        },
+        {
+          "text": "$5$ pontos.",
+          "rationale": "Infrações Graves acarretam $5$ pontos na CNH e multa.",
+          "isCorrect": true
+        },
+        {
+          "text": "$7$ pontos.",
+          "rationale": "$7$ pontos são atribuídos a infrações de natureza Gravíssima.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se da ordem crescente de pontuação: Leve $3$, Média $4$, Grave $5$, Gravíssima $7$.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 61,
+      "question": "Antes de iniciar uma ultrapassagem, o condutor defensivo deve primeiro:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Acelerar o veículo para ganhar tempo.",
+          "rationale": "A aceleração vem depois da avaliação da segurança.",
+          "isCorrect": false
+        },
+        {
+          "text": "Sinalizar o movimento de ultrapassagem.",
+          "rationale": "A sinalização deve vir depois de se certificar que a manobra é segura.",
+          "isCorrect": false
+        },
+        {
+          "text": "Verificar se há espaço suficiente e se a sinalização permite a manobra.",
+          "rationale": "O primeiro passo é a 'Previsão' e a 'Atenção', avaliando as condições da via, do veículo à frente e de trás, e a sinalização.",
+          "isCorrect": true
+        },
+        {
+          "text": "Ligar o farol alto para avisar o veículo à frente.",
+          "rationale": "O farol alto pode ofuscar e não é o primeiro passo de segurança.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O princípio da Direção Defensiva exige uma avaliação completa da segurança antes da ação.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 62,
+      "question": "Quando o agente de trânsito estende o braço horizontalmente com a palma da mão para o alto, voltada para os veículos, o que este gesto significa?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Sinal de livre circulação.",
+          "rationale": "O braço estendido lateralmente com a palma para baixo ou braços caídos indicam livre circulação.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ordem de acelerar.",
+          "rationale": "Não há sinal de agente para acelerar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ordem de parada obrigatória para todos os veículos que venham de direções que cruzem a direção indicada pela palma.",
+          "rationale": "Este gesto significa 'Parada Obrigatória'. É um alerta para parar (como o semáforo amarelo para parar).",
+          "isCorrect": true
+        },
+        {
+          "text": "Ordem de virar à direita.",
+          "rationale": "Virar à direita é sinalizado por movimentos do braço ou por gestos mais explícitos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no gesto semelhante ao do semáforo que está mudando para o vermelho.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 63,
+      "question": "Um dos sinais de estado de choque em uma vítima de acidente é:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Cor avermelhada da pele e pulso forte e lento.",
+          "rationale": "Pele vermelha e pulso forte não são sintomas de choque.",
+          "isCorrect": false
+        },
+        {
+          "text": "Pele pálida, fria e suor intenso (sudorese), com pulso fraco e rápido.",
+          "rationale": "O estado de choque é uma falha circulatória que reduz o suprimento de oxigênio, manifestando-se com palidez, frio, sudorese e taquicardia (pulso rápido).",
+          "isCorrect": true
+        },
+        {
+          "text": "Vômito constante e tosse.",
+          "rationale": "Vômito e tosse podem ser sintomas, mas a tríade de palidez, suor frio e pulso fraco é a característica do choque.",
+          "isCorrect": false
+        },
+        {
+          "text": "Forte dor de cabeça e febre.",
+          "rationale": "Estes não são os sintomas primários do estado de choque.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O choque é uma falha na circulação sanguínea. Pense em como o corpo reage à falta de oxigenação adequada.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 64,
+      "question": "O sistema elétrico do veículo é responsável por:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Apenas por fazer o motor funcionar.",
+          "rationale": "O sistema elétrico tem várias outras funções além da partida.",
+          "isCorrect": false
+        },
+        {
+          "text": "Gerar, armazenar e distribuir energia para todos os componentes elétricos e eletrônicos.",
+          "rationale": "O sistema, composto por bateria, alternador e cabos, garante que a ignição, iluminação e acessórios funcionem corretamente.",
+          "isCorrect": true
+        },
+        {
+          "text": "Acionar o sistema de freios ABS.",
+          "rationale": "O sistema de freios é hidráulico (com auxílio eletrônico no ABS).",
+          "isCorrect": false
+        },
+        {
+          "text": "Filtrar o óleo do motor.",
+          "rationale": "O filtro de óleo faz parte do sistema de lubrificação.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nos três verbos de ação do sistema: criar, guardar e espalhar energia.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 65,
+      "question": "O uso de farol baixo, mesmo durante o dia, é obrigatório, por lei, para:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Todos os veículos em vias urbanas.",
+          "rationale": "O uso de farol baixo durante o dia é obrigatório apenas para alguns tipos de vias rurais (rodovias de pista simples) ou veículos específicos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Todos os veículos em túneis e rodovias de pista simples.",
+          "rationale": "O uso do farol baixo (ou luz de rodagem diurna - DRL) é obrigatório em túneis e, para todos os veículos, em rodovias de pista simples fora do perímetro urbano (durante o dia).",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas motocicletas, em qualquer via.",
+          "rationale": "Motocicletas devem usar o farol aceso sempre (dia e noite), mas a regra se estende a outros veículos em rodovias de pista simples durante o dia.",
+          "isCorrect": false
+        },
+        {
+          "text": "Veículos novos, nos primeiros $6$ meses de uso.",
+          "rationale": "A obrigatoriedade não é baseada na idade do veículo.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nos locais onde a visibilidade é naturalmente reduzida ou onde há maior risco de acidentes frontais.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 66,
+      "question": "As Vias Locais são caracterizadas por:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Ligar as vias arteriais e coletoras, com velocidade de $60 \\text{ km/h}$.",
+          "rationale": "Esta é a definição de uma Via Coletora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vias de acesso direto a propriedades lindeiras, com baixa velocidade ($30 \\text{ km/h}$).",
+          "rationale": "As Vias Locais são destinadas apenas ao acesso a áreas restritas ou propriedades, com pouca ou nenhuma sinalização e baixa velocidade.",
+          "isCorrect": true
+        },
+        {
+          "text": "Vias sem interrupções e com alta velocidade ($80 \\text{ km/h}$).",
+          "rationale": "Esta é a definição de uma Via de Trânsito Rápido.",
+          "isCorrect": false
+        },
+        {
+          "text": "Vias de grande porte que ligam bairros, com semáforos.",
+          "rationale": "Esta é a definição de uma Via Arterial.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O nome 'local' indica que seu uso é restrito e com menor fluxo.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 67,
+      "question": "Para obter a Categoria E de habilitação, o condutor deve ter no mínimo $1$ ano de experiência nas categorias:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "A ou B.",
+          "rationale": "As categorias A e B são as iniciais e não permitem a transição direta para a E.",
+          "isCorrect": false
+        },
+        {
+          "text": "C ou D.",
+          "rationale": "A Categoria E é a última e mais completa; ela exige experiência mínima de $1$ ano nas categorias C ou D.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas na Categoria C.",
+          "rationale": "O condutor vindo da Categoria D também pode mudar para a E.",
+          "isCorrect": false
+        },
+        {
+          "text": "Qualquer categoria, desde que tenha mais de $21$ anos.",
+          "rationale": "A idade mínima é $21$ anos, mas o tempo de experiência nas categorias C ou D é obrigatório.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A Categoria E é para combinações de veículos pesados. Pense nas categorias que permitem conduzir veículos pesados.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 68,
+      "question": "A placa A-4a (Curva acentuada à esquerda) é classificada como uma placa de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Regulamentação.",
+          "rationale": "Regulamentação impõe obrigações (são circulares).",
+          "isCorrect": false
+        },
+        {
+          "text": "Advertência.",
+          "rationale": "As placas que alertam sobre perigos na via (curvas, aclives, cruzamentos) são placas de Advertência (losangulares amarelas).",
+          "isCorrect": true
+        },
+        {
+          "text": "Indicação.",
+          "rationale": "Placas de Indicação informam sobre serviços ou destinos.",
+          "isCorrect": false
+        },
+        {
+          "text": "Serviços Auxiliares.",
+          "rationale": "Serviços Auxiliares são um tipo de placa de Indicação (são azuis).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O formato e a cor indicam a função de 'alerta' sobre uma condição perigosa da via.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 69,
+      "question": "Qual é o limite de pontos na CNH em $12$ meses para o condutor que possuir $2$ ou mais infrações gravíssimas?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$40$ pontos.",
+          "rationale": "$40$ pontos é o limite para quem não tem nenhuma infração gravíssima.",
+          "isCorrect": false
+        },
+        {
+          "text": "$30$ pontos.",
+          "rationale": "$30$ pontos é o limite para quem possui $1$ infração gravíssima.",
+          "isCorrect": false
+        },
+        {
+          "text": "$20$ pontos.",
+          "rationale": "Se o condutor atingir ou exceder $20$ pontos, tendo $2$ ou mais infrações gravíssimas, ele terá o direito de dirigir suspenso.",
+          "isCorrect": true
+        },
+        {
+          "text": "$19$ pontos.",
+          "rationale": "O limite é $20$ pontos para quem tem $2$ ou mais gravíssimas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no limite de pontos mais baixo da regra escalonada.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 70,
+      "question": "Alinhamento e balanceamento dos pneus afetam diretamente:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Apenas o consumo de combustível.",
+          "rationale": "O consumo é afetado, mas a segurança e o desgaste são os principais efeitos.",
+          "isCorrect": false
+        },
+        {
+          "text": "A capacidade de frenagem e o nível do óleo do motor.",
+          "rationale": "Não afeta o nível do óleo, mas sim o sistema de direção.",
+          "isCorrect": false
+        },
+        {
+          "text": "A dirigibilidade, a estabilidade e o desgaste regular dos pneus.",
+          "rationale": "O alinhamento garante a direção reta; o balanceamento evita trepidações, ambos prolongando a vida útil dos pneus e a segurança.",
+          "isCorrect": true
+        },
+        {
+          "text": "A carga da bateria.",
+          "rationale": "Estes procedimentos não afetam o sistema elétrico.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense nos benefícios diretos para os pneus e a condução do veículo.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 71,
+      "question": "A distância percorrida pelo veículo desde que o condutor aciona o freio até a parada total é chamada de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Distância de Reação.",
+          "rationale": "A Distância de Reação termina quando o freio é acionado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Distância de Seguimento.",
+          "rationale": "Distância de Seguimento é a margem entre os veículos em movimento.",
+          "isCorrect": false
+        },
+        {
+          "text": "Distância de Parada.",
+          "rationale": "A Distância de Parada é a soma da Distância de Reação e da Distância de Frenagem.",
+          "isCorrect": false
+        },
+        {
+          "text": "Distância de Frenagem.",
+          "rationale": "Esta distância depende do estado dos pneus, dos freios e das condições da pista.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Esta distância depende da eficiência do sistema de freios.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 72,
+      "question": "Ao se aproximar de um ônibus parado para embarque e desembarque de passageiros, o condutor deve:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Ultrapassar o ônibus rapidamente para evitar atrasos.",
+          "rationale": "O CTB exige cautela e atenção com o pedestre que pode estar atravessando.",
+          "isCorrect": false
+        },
+        {
+          "text": "Manter a velocidade, pois os pedestres devem esperar.",
+          "rationale": "A prioridade é a segurança dos pedestres que estão embarcando ou desembarcando.",
+          "isCorrect": false
+        },
+        {
+          "text": "Reduzir a velocidade, ou parar, se necessário, com atenção especial aos pedestres.",
+          "rationale": "A atitude correta é a atenção e cautela, especialmente com pessoas que podem estar atravessando a pista inesperadamente.",
+          "isCorrect": true
+        },
+        {
+          "text": "Utilizar a buzina para alertar os passageiros.",
+          "rationale": "O uso da buzina é inadequado e pode assustar as pessoas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A manobra visa proteger o pedestre que pode surgir à frente ou por trás do ônibus.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 73,
+      "question": "Qual a função principal da Junta Administrativa de Recursos de Infrações (JARI) no Sistema Nacional de Trânsito?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Expedir a CNH e o CRLV.",
+          "rationale": "Esta é a função do DETRAN.",
+          "isCorrect": false
+        },
+        {
+          "text": "Julgar os recursos interpostos pelos infratores contra penalidades aplicadas pelos órgãos executivos de trânsito.",
+          "rationale": "A JARI é o órgão colegiado responsável por analisar e julgar a primeira instância dos recursos de multas.",
+          "isCorrect": true
+        },
+        {
+          "text": "Estabelecer as normas de sinalização viária.",
+          "rationale": "Esta é a função do CONTRAN.",
+          "isCorrect": false
+        },
+        {
+          "text": "Realizar a fiscalização do trânsito nas rodovias federais.",
+          "rationale": "Esta é a função da PRF.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O nome do órgão contém a palavra 'Recursos'.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 74,
+      "question": "Em caso de queimadura de $1^{\\circ}$ grau (apenas vermelhidão e dor leve), o que o socorrista deve fazer?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Aplicar pomadas e manteiga.",
+          "rationale": "Nunca se deve aplicar produtos caseiros (manteiga, pasta de dente) que podem piorar a lesão ou contaminar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Lavar o local com água corrente (temperatura ambiente) e cobrir com gaze limpa.",
+          "rationale": "A água corrente resfria a pele, interrompe o processo de queimadura e alivia a dor. Cobrir evita a contaminação.",
+          "isCorrect": true
+        },
+        {
+          "text": "Estourar as bolhas (se houver) e passar esparadrapo.",
+          "rationale": "Queimaduras de $1^{\\circ}$ grau não têm bolhas; bolhas em $2^{\\circ}$ grau nunca devem ser estouradas pelo socorrista leigo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Remover a roupa grudada na pele.",
+          "rationale": "A roupa grudada não deve ser removida, pois pode arrancar a pele junto.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A ação imediata e mais importante para uma queimadura é o resfriamento.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 75,
+      "question": "Um ruído excessivo vindo do motor ou escapamento pode indicar:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Problemas no sistema de freios.",
+          "rationale": "O sistema de freios emite ruído ao frear, não um ruído constante de motor ou escapamento.",
+          "isCorrect": false
+        },
+        {
+          "text": "Problemas no sistema de arrefecimento (falta de água).",
+          "rationale": "A falta de água no arrefecimento causa superaquecimento, e não ruído excessivo no escapamento.",
+          "isCorrect": false
+        },
+        {
+          "text": "Defeitos no silencioso ou no catalisador, contribuindo para a poluição sonora.",
+          "rationale": "Buracos no silencioso ou avarias no catalisador fazem o motor 'gritar' e causam poluição sonora, além de infração de trânsito.",
+          "isCorrect": true
+        },
+        {
+          "text": "Necessidade de rodízio e balanceamento dos pneus.",
+          "rationale": "Rodízio e balanceamento afetam a trepidação e o desgaste do pneu, e não o ruído do escapamento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no componente do escapamento que tem a função de abafar o som.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 76,
+      "question": "O portador da Permissão para Dirigir (PPD) terá o documento cassado (não receberá a CNH definitiva) se cometer:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Apenas infrações de natureza leve.",
+          "rationale": "O condutor pode cometer infrações leves e médias, desde que não seja reincidente nas médias.",
+          "isCorrect": false
+        },
+        {
+          "text": "Qualquer infração de natureza leve ou média.",
+          "rationale": "Pode cometer infrações leves e médias, mas não pode ser reincidente em infrações médias.",
+          "isCorrect": false
+        },
+        {
+          "text": "Infração de natureza Grave, Gravíssima ou for reincidente em infração Média.",
+          "rationale": "O CTB exige um período probatório de $1$ ano sem cometer essas infrações mais severas.",
+          "isCorrect": true
+        },
+        {
+          "text": "Mais de $20$ pontos em seu prontuário.",
+          "rationale": "O limite de $20$ pontos é para a CNH definitiva, mas a PPD é cassada por infrações específicas, e não pelo somatório de pontos.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A regra visa a eliminação de condutores com comportamento de risco (as infrações mais sérias).",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 77,
+      "question": "Qual a velocidade máxima permitida para automóveis em rodovias de pista simples (sem sinalização)?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$110 \\text{ km/h}$.",
+          "rationale": "Esta é a velocidade máxima para automóveis em rodovias de pista dupla (e simples, mas apenas para o estado de São Paulo).",
+          "isCorrect": false
+        },
+        {
+          "text": "$90 \\text{ km/h}$.",
+          "rationale": "Esta é a velocidade máxima para caminhões e demais veículos em rodovias de pista simples.",
+          "isCorrect": false
+        },
+        {
+          "text": "$100 \\text{ km/h}$.",
+          "rationale": "A velocidade máxima regulamentada para automóveis, camionetas e motocicletas em rodovias de pista simples sem sinalização é de $100 \\text{ km/h}$.",
+          "isCorrect": true
+        },
+        {
+          "text": "$80 \\text{ km/h}$.",
+          "rationale": "Esta é a velocidade máxima em vias de trânsito rápido urbanas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se que nas vias rurais, a velocidade é diferente para pista simples e pista dupla.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 78,
+      "question": "A placa de regulamentação R-29 (Circular, com o símbolo de um pedestre cortado pela tarja vermelha) indica:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Passagem sinalizada de pedestres.",
+          "rationale": "Passagem sinalizada de pedestres é a placa A-32b (Advertência).",
+          "isCorrect": false
+        },
+        {
+          "text": "Proibido trânsito de pedestres.",
+          "rationale": "Esta placa proíbe a circulação de pedestres na via ou trecho sinalizado, geralmente por motivos de segurança (ex: túneis, pontes, viadutos).",
+          "isCorrect": true
+        },
+        {
+          "text": "Área escolar.",
+          "rationale": "Área escolar é a placa A-32a (Advertência).",
+          "isCorrect": false
+        },
+        {
+          "text": "Proibido o uso do acostamento por pedestres.",
+          "rationale": "O CTB permite o trânsito de pedestres no acostamento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O traço vermelho significa 'proibição' e a figura é do pedestre.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 79,
+      "question": "A luz vermelha do semáforo tem a função de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Indicar que a atenção e a velocidade devem ser reduzidas.",
+          "rationale": "Esta é a função da luz amarela.",
+          "isCorrect": false
+        },
+        {
+          "text": "Permitir a passagem de todos os veículos.",
+          "rationale": "Esta é a função da luz verde.",
+          "isCorrect": false
+        },
+        {
+          "text": "Obrigar a parada total dos veículos antes da linha de retenção ou do cruzamento.",
+          "rationale": "A luz vermelha impõe a Parada Obrigatória, sendo a mais restritiva das luzes semafóricas.",
+          "isCorrect": true
+        },
+        {
+          "text": "Advertir o condutor sobre o perigo de intersecção.",
+          "rationale": "A luz vermelha é uma regulamentação de parada e não uma advertência.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A luz vermelha tem o mesmo significado da placa R-1 (PARE).",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 80,
+      "question": "Estacionar o veículo na contramão de direção é infração de natureza:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Gravíssima.",
+          "rationale": "Estacionar na contramão é infração Média ($4$ pontos).",
+          "isCorrect": false
+        },
+        {
+          "text": "Grave.",
+          "rationale": "Estacionar na contramão é infração Média ($4$ pontos).",
+          "isCorrect": false
+        },
+        {
+          "text": "Média.",
+          "rationale": "Esta conduta é considerada infração Média (Art. $181$, XVII), com multa e remoção do veículo.",
+          "isCorrect": true
+        },
+        {
+          "text": "Leve.",
+          "rationale": "A infração Média é mais severa do que a Leve.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no nível de desordem que esta atitude causa no fluxo de veículos.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 81,
+      "question": "A luz vermelha acesa no painel indicando o nível de óleo do motor (luz da 'Galinha do Sítio') significa:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Que é hora de trocar o óleo.",
+          "rationale": "A luz indica um problema de pressão ou nível, e não apenas o momento da troca.",
+          "isCorrect": false
+        },
+        {
+          "text": "A falta de pressão ou nível baixo de óleo no sistema de lubrificação, exigindo parada imediata.",
+          "rationale": "Esta luz indica que o motor não está sendo lubrificado, o que pode causar o fundimento imediato do motor, exigindo a parada e desligamento do veículo.",
+          "isCorrect": true
+        },
+        {
+          "text": "A temperatura alta do motor.",
+          "rationale": "A temperatura alta é indicada pelo termômetro ou luz específica de arrefecimento.",
+          "isCorrect": false
+        },
+        {
+          "text": "A necessidade de adicionar aditivo no combustível.",
+          "rationale": "Esta luz não tem relação com o combustível.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A cor vermelha do painel sempre indica um risco grave e iminente.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 82,
+      "question": "Ao entrar em área de neblina ou fumaça, o condutor deve utilizar:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Farol alto para atravessar a neblina.",
+          "rationale": "O farol alto reflete na neblina ou fumaça e dificulta a visão.",
+          "isCorrect": false
+        },
+        {
+          "text": "O farol baixo e, se houver, o farol de neblina (frente).",
+          "rationale": "O farol baixo e o farol de neblina (se equipado) são ideais porque o feixe de luz é mais baixo, iluminando a via sem refletir na neblina.",
+          "isCorrect": true
+        },
+        {
+          "text": "Pisca-alerta, para sinalizar o perigo.",
+          "rationale": "O pisca-alerta só deve ser usado se o veículo estiver parado.",
+          "isCorrect": false
+        },
+        {
+          "text": "Faróis desligados, para não ofuscar.",
+          "rationale": "O veículo deve estar iluminado para ser visto pelos outros motoristas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "A regra de ouro é: 'quanto mais baixa a visibilidade, mais baixa deve ser a luz'.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 83,
+      "question": "Em situações de emergência e devidamente identificados (sirene e giroflex ligados), os veículos de polícia, socorro e bombeiro têm:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Prioridade de trânsito e livre circulação, estacionamento e parada.",
+          "rationale": "Estes veículos têm prioridade e liberdade de manobra no trânsito quando em serviço de urgência, desde que respeitem as normas de segurança.",
+          "isCorrect": true
+        },
+        {
+          "text": "Livre circulação, mas devem respeitar a sinalização.",
+          "rationale": "A prioridade de trânsito permite que avancem o semáforo vermelho e desrespeitem outras regras de circulação (com cautela).",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas prioridade de estacionamento.",
+          "rationale": "Eles têm prioridade total sobre todos os demais veículos e pedestres.",
+          "isCorrect": false
+        },
+        {
+          "text": "Livre circulação, mas sem prioridade de passagem.",
+          "rationale": "Eles têm tanto livre circulação quanto prioridade de passagem.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no objetivo do serviço: chegar o mais rápido possível para salvar vidas.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 84,
+      "question": "O uso do pisca-alerta (luz intermitente) é permitido apenas em situações de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Forte neblina ou chuva intensa.",
+          "rationale": "Nestes casos, deve-se usar o farol baixo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ultrapassagem em rodovias.",
+          "rationale": "O pisca-alerta é usado apenas para veículos imobilizados ou em situações de emergência grave.",
+          "isCorrect": false
+        },
+        {
+          "text": "Imobilização ou em situação de emergência comprovada (ex: falha mecânica, pane seca).",
+          "rationale": "O pisca-alerta é um sinal de advertência que indica imobilização ou risco à segurança do trânsito.",
+          "isCorrect": true
+        },
+        {
+          "text": "Para alertar o motorista à frente sobre o risco de colisão.",
+          "rationale": "Neste caso, deve-se usar a buzina ou piscar os faróis.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta luz serve para sinalizar uma condição de veículo parado ou emergencial.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 85,
+      "question": "Uma infração de natureza Leve acarreta quantos pontos na CNH?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$7$ pontos.",
+          "rationale": "$7$ pontos são atribuídos a infrações de natureza Gravíssima.",
+          "isCorrect": false
+        },
+        {
+          "text": "$5$ pontos.",
+          "rationale": "$5$ pontos são atribuídos a infrações de natureza Grave.",
+          "isCorrect": false
+        },
+        {
+          "text": "$4$ pontos.",
+          "rationale": "$4$ pontos são atribuídos a infrações de natureza Média.",
+          "isCorrect": false
+        },
+        {
+          "text": "$3$ pontos.",
+          "rationale": "Infrações Leves acarretam $3$ pontos na CNH e multa.",
+          "isCorrect": true
+        }
+      ],
+      "hint": "Lembre-se da menor pontuação do sistema.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 86,
+      "question": "Uma vítima inconsciente que **respira** deve ser colocada em qual posição em primeiros socorros?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "De barriga para cima, com a cabeça levantada.",
+          "rationale": "Esta posição aumenta o risco de a vítima engasgar com vômito ou saliva.",
+          "isCorrect": false
+        },
+        {
+          "text": "Em posição lateral de segurança (PLS).",
+          "rationale": "A PLS é ideal para vítimas inconscientes que respiram, pois evita o risco de asfixia por engasgamento.",
+          "isCorrect": true
+        },
+        {
+          "text": "Sentada, para facilitar a respiração.",
+          "rationale": "Vítimas inconscientes devem ser deitadas, e não sentadas.",
+          "isCorrect": false
+        },
+        {
+          "text": "A posição em que se encontra, sem tocá-la.",
+          "rationale": "A vítima deve ser movida para a PLS para evitar engasgamento (exceto se houver suspeita de lesão na coluna).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta posição protege a via aérea, evitando que líquidos obstruam a garganta.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 87,
+      "question": "Se o nível da água do radiador estiver baixo, o condutor deve:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Completar a água imediatamente com o motor quente e desligado.",
+          "rationale": "Abrir o radiador com o motor quente é extremamente perigoso devido ao risco de queimaduras com vapor.",
+          "isCorrect": false
+        },
+        {
+          "text": "Adicionar somente aditivo concentrado.",
+          "rationale": "A falta de água deve ser resolvida com a mistura correta de água e aditivo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Aguardar o motor esfriar para completar o nível com água e aditivo na proporção correta.",
+          "rationale": "Aguardar o resfriamento evita queimaduras e danos ao motor (choque térmico); a água destilada e o aditivo são cruciais.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas desligar o motor e chamar o guincho.",
+          "rationale": "O desligamento é a primeira medida, mas o condutor pode e deve verificar o nível após o resfriamento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Lembre-se do perigo do vapor pressurizado e do risco de choque térmico no motor.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 88,
+      "question": "Uma faixa de divisão de fluxo **tracejada** ou **seccionada** na pista (amarela ou branca) permite:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Apenas o estacionamento no local.",
+          "rationale": "A sinalização horizontal central não regula o estacionamento.",
+          "isCorrect": false
+        },
+        {
+          "text": "A ultrapassagem e os deslocamentos laterais (mudança de faixa) nos dois sentidos, se for amarela, ou no mesmo sentido, se for branca.",
+          "rationale": "A linha tracejada indica que o fluxo é permitido para ambos os lados ou para mudança de faixa (no caso da branca).",
+          "isCorrect": true
+        },
+        {
+          "text": "A ultrapassagem, mas proíbe a mudança de faixa.",
+          "rationale": "A linha tracejada permite os dois movimentos (ultrapassagem e mudança de faixa).",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas a circulação de veículos lentos.",
+          "rationale": "Não é a função da linha tracejada.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O principal benefício da linha seccionada é permitir a transposição (atravessar a linha) em segurança.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 89,
+      "question": "O uso do cinto de segurança é obrigatório para:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Apenas o condutor e o passageiro do banco da frente.",
+          "rationale": "O CTB exige o uso em todos os assentos para todos os ocupantes do veículo.",
+          "isCorrect": false
+        },
+        {
+          "text": "Somente para crianças.",
+          "rationale": "O uso é obrigatório para todos, sendo que as crianças têm regras específicas (cadeirinha/assento de elevação).",
+          "isCorrect": false
+        },
+        {
+          "text": "Todos os ocupantes do veículo, em todas as vias do território nacional.",
+          "rationale": "Esta é a regra fundamental de segurança e é obrigatória por lei, conforme o Art. $65$ do CTB.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas em vias rurais e rodovias.",
+          "rationale": "O uso é obrigatório em todas as vias, urbanas e rurais.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta é a regra de segurança passiva mais importante do veículo.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 90,
+      "question": "O monóxido de carbono ($CO$) é um gás poluente inodoro e incolor, altamente perigoso porque:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Causa o efeito estufa.",
+          "rationale": "O gás que mais causa o efeito estufa é o $\\text{CO}_2$ (Dióxido de Carbono).",
+          "isCorrect": false
+        },
+        {
+          "text": "Causa irritação nos olhos e nas vias respiratórias.",
+          "rationale": "Os Óxidos de Enxofre e os hidrocarbonetos causam mais irritação, mas o CO tem um perigo mais letal.",
+          "isCorrect": false
+        },
+        {
+          "text": "Impede o transporte de oxigênio no sangue, causando asfixia e morte silenciosa.",
+          "rationale": "O CO se liga à hemoglobina do sangue, impedindo a captação de oxigênio pelos tecidos e levando à morte por asfixia.",
+          "isCorrect": true
+        },
+        {
+          "text": "Dificulta a decomposição do lixo orgânico.",
+          "rationale": "O CO não afeta a decomposição do lixo orgânico.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no seu efeito sobre a respiração e a ausência de cor/cheiro.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 91,
+      "question": "Além de ser o órgão máximo normativo, o CONTRAN também:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Executa a fiscalização nas rodovias federais.",
+          "rationale": "A fiscalização é função da PRF.",
+          "isCorrect": false
+        },
+        {
+          "text": "É responsável por realizar os exames de habilitação.",
+          "rationale": "Os exames são responsabilidade do DETRAN.",
+          "isCorrect": false
+        },
+        {
+          "text": "Coordena o Sistema Nacional de Trânsito e elabora seu regimento interno.",
+          "rationale": "O CONTRAN é o coordenador máximo do SNT e responsável por criar as normas operacionais (resoluções).",
+          "isCorrect": true
+        },
+        {
+          "text": "Gerencia o DPVAT (Seguro de Danos Pessoais Causados por Veículos Automotores de Vias Terrestres).",
+          "rationale": "A gestão do DPVAT é feita pela SUSEP/Caixa Econômica Federal.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Este órgão tem a função de organizar e criar a base legal para todo o sistema.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 92,
+      "question": "Para conduzir um ciclomotor é obrigatória a posse de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Apenas o RG, pois é um veículo de baixa potência.",
+          "rationale": "A condução de qualquer veículo automotor exige habilitação específica.",
+          "isCorrect": false
+        },
+        {
+          "text": "Carteira Nacional de Habilitação (CNH) Categoria A ou Autorização para Conduzir Ciclomotor (ACC).",
+          "rationale": "O CTB exige a Categoria A ou a ACC, que é específica para ciclomotores.",
+          "isCorrect": true
+        },
+        {
+          "text": "Apenas a CNH na Categoria B.",
+          "rationale": "A Categoria B é para carros (quatro rodas).",
+          "isCorrect": false
+        },
+        {
+          "text": "Não há exigência de habilitação.",
+          "rationale": "Há exigência de habilitação (ACC ou Categoria A).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Existe uma habilitação específica para este tipo de veículo.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 93,
+      "question": "Qual a velocidade máxima permitida para automóveis em rodovias de pista dupla (sem sinalização)?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$110 \\text{ km/h}$.",
+          "rationale": "A velocidade máxima regulamentada para automóveis, camionetas e motocicletas em rodovias de pista dupla sem sinalização é de $110 \\text{ km/h}$.",
+          "isCorrect": true
+        },
+        {
+          "text": "$100 \\text{ km/h}$.",
+          "rationale": "$100 \\text{ km/h}$ é a velocidade máxima para pista simples.",
+          "isCorrect": false
+        },
+        {
+          "text": "$90 \\text{ km/h}$.",
+          "rationale": "$90 \\text{ km/h}$ é a velocidade para veículos pesados (caminhões/ônibus) em pista dupla.",
+          "isCorrect": false
+        },
+        {
+          "text": "$80 \\text{ km/h}$.",
+          "rationale": "$80 \\text{ km/h}$ é a velocidade máxima em vias de trânsito rápido urbanas.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Em rodovias com separação física, a velocidade permitida é a mais alta.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 94,
+      "question": "Qual é o último pilar da Direção Defensiva a ser aplicado (após a previsão)?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Atenção.",
+          "rationale": "A Atenção é o terceiro pilar.",
+          "isCorrect": false
+        },
+        {
+          "text": "Conhecimento.",
+          "rationale": "O Conhecimento é o primeiro pilar (base).",
+          "isCorrect": false
+        },
+        {
+          "text": "Decisão.",
+          "rationale": "A Decisão é o último pilar, pois o condutor decide o que fazer após o conhecimento, atenção, previsão e habilidade.",
+          "isCorrect": true
+        },
+        {
+          "text": "Habilidade.",
+          "rationale": "A Habilidade é o quarto pilar (a prática para realizar a ação).",
+          "isCorrect": false
+        }
+      ],
+      "hint": "É o momento final, onde o condutor transforma a intenção em ação.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 95,
+      "question": "Em caso de afogamento (vítima consciente), o socorrista deve primeiramente:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Iniciar a massagem cardíaca.",
+          "rationale": "Massagem cardíaca é para vítimas inconscientes e sem respiração.",
+          "isCorrect": false
+        },
+        {
+          "text": "Remover a vítima da água com segurança e mantê-la aquecida.",
+          "rationale": "A segurança da vítima e o controle da hipotermia são as prioridades após a remoção.",
+          "isCorrect": true
+        },
+        {
+          "text": "Forçar a vítima a tossir para expelir a água dos pulmões.",
+          "rationale": "A tosse deve ser espontânea, e não forçada; o socorrista não deve intervir dessa forma.",
+          "isCorrect": false
+        },
+        {
+          "text": "Dar líquidos quentes para beber.",
+          "rationale": "Não se deve dar nada para a vítima beber ou comer em acidentes.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O primeiro passo é sempre proteger a vítima da exposição e garantir a sua estabilidade.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 96,
+      "question": "A função do sistema de embreagem é:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Transferir o movimento do motor para as rodas continuamente.",
+          "rationale": "O sistema de embreagem permite interromper a transferência de movimento, e não mantê-la contínua.",
+          "isCorrect": false
+        },
+        {
+          "text": "Apenas reduzir a rotação do motor.",
+          "rationale": "A rotação é reduzida pelo câmbio (marchas).",
+          "isCorrect": false
+        },
+        {
+          "text": "Engatar e desengatar a força do motor do sistema de transmissão, facilitando a troca de marchas.",
+          "rationale": "A embreagem acopla e desacopla o motor da caixa de câmbio, permitindo a troca de marchas sem danificar as peças.",
+          "isCorrect": true
+        },
+        {
+          "text": "Reduzir o ruído durante a aceleração.",
+          "rationale": "O ruído é reduzido pelo sistema de escapamento.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Esta peça é o 'meio de campo' entre o motor e o câmbio.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 97,
+      "question": "Qual a pontuação atribuída na CNH por uma infração de natureza Média?",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "$7$ pontos.",
+          "rationale": "$7$ pontos são atribuídos a infrações de natureza Gravíssima.",
+          "isCorrect": false
+        },
+        {
+          "text": "$5$ pontos.",
+          "rationale": "$5$ pontos são atribuídos a infrações de natureza Grave.",
+          "isCorrect": false
+        },
+        {
+          "text": "$4$ pontos.",
+          "rationale": "Infrações Médias acarretam $4$ pontos na CNH e multa.",
+          "isCorrect": true
+        },
+        {
+          "text": "$3$ pontos.",
+          "rationale": "$3$ pontos são atribuídos a infrações de natureza Leve.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Está entre a infração Leve e a Grave.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 98,
+      "question": "A placa A-27 (losangular amarela com o desenho de pedras caindo em um barranco) é uma placa de:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Regulamentação.",
+          "rationale": "Regulamentação impõe regras (são circulares).",
+          "isCorrect": false
+        },
+        {
+          "text": "Serviços Auxiliares.",
+          "rationale": "Serviços Auxiliares informam sobre postos de gasolina ou hospitais.",
+          "isCorrect": false
+        },
+        {
+          "text": "Advertência.",
+          "rationale": "A placa A-27 adverte sobre o perigo de desmoronamento ou queda de barreiras na pista ou acostamento.",
+          "isCorrect": true
+        },
+        {
+          "text": "Indicação.",
+          "rationale": "Placas de Indicação informam sobre destinos ou serviços.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "O formato e a cor indicam a função de 'alerta' sobre um risco geográfico.",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 99,
+      "question": "A prioridade de passagem em um cruzamento não sinalizado é definida pela:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Velocidade do veículo.",
+          "rationale": "A velocidade nunca é um critério de prioridade e deve ser reduzida.",
+          "isCorrect": false
+        },
+        {
+          "text": "Regra geral do veículo que vier pela direita do condutor (exceto rotatória e rodovia).",
+          "rationale": "Esta é a regra básica do CTB para cruzamentos sem sinalização específica (Art. $29$, III, 'c').",
+          "isCorrect": true
+        },
+        {
+          "text": "Largura da via.",
+          "rationale": "A largura da via só é critério de preferência em casos específicos e de fluxo igual.",
+          "isCorrect": false
+        },
+        {
+          "text": "Ordem de chegada ao cruzamento.",
+          "rationale": "A ordem de chegada não define a preferência; a regra da direita é o critério legal.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Qual é a regra de 'mão' usada na ausência de placas, semáforos ou rotatórias?",
+      "isCorrect": false
+    },
+    {
+      "questionNumber": 100,
+      "question": "O descarte inadequado de pneus velhos causa:",
+      "imageUrl": "",
+      "answerOptions": [
+        {
+          "text": "Apenas poluição visual, sendo facilmente biodegradável.",
+          "rationale": "O pneu não é facilmente biodegradável e causa problemas ambientais graves.",
+          "isCorrect": false
+        },
+        {
+          "text": "Acúmulo de água parada, contribuindo para a proliferação de vetores de doenças (ex: mosquito Aedes aegypti).",
+          "rationale": "O pneu é um excelente reservatório de água, sendo um dos principais focos para a proliferação de vetores de doenças como dengue e zika.",
+          "isCorrect": true
+        },
+        {
+          "text": "Poluição sonora excessiva.",
+          "rationale": "O descarte de pneus não causa poluição sonora.",
+          "isCorrect": false
+        },
+        {
+          "text": "Erosão do solo.",
+          "rationale": "A remoção de vegetação causa erosão, não o descarte de pneus.",
+          "isCorrect": false
+        }
+      ],
+      "hint": "Pense no formato do pneu e no que ele pode acumular em períodos de chuva.",
+      "isCorrect": false
+    }
+  ]
+}

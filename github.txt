@@ -1,0 +1,80 @@
+-----------------------------atualizar----------------------------
+🚀 Comandos para atualizar seu repositório:
+
+git add .
+git commit -m "Descreva aqui o que você mudou"
+git push
+
+🧠 Explicação rápida:
+git add . → adiciona todas as alterações feitas
+
+git commit -m "mensagem" → salva um ponto de controle com uma descrição do que mudou
+
+git push → envia tudo para o repositório no GitHub
+
+✅ Exemplo prático:
+
+git commit -m "Adicionado rodapé com copyright"
+git push
+
+Se você quiser ver o que mudou antes de subir, use:
+
+git status      # Mostra arquivos modificados
+git diff        # Mostra as alterações nos arquivos
+
+
+-------------------------Criar------------------------------------
+
+Aqui está uma lista de comandos, em ordem, para criar um repositório Git local, adicionar arquivos e fazer o primeiro commit:
+
+✅ 1. Criar uma pasta (se necessário):
+
+mkdir nome-do-projeto
+cd nome-do-projeto
+
+✅ 2. Iniciar o repositório Git:
+
+git init
+
+✅ 3. Adicionar arquivos ao repositório (ex: todos os arquivos):
+
+git add .
+
+Ou adicione arquivos específicos:
+
+git add nome-do-arquivo.extensao
+
+✅ 4. Fazer o primeiro commit com uma mensagem:
+
+git commit -m "Primeiro commit"
+
+✅ (Opcional) Verificar o status do repositório:
+
+git status
+
+✅ 5. Criar um repositório remoto no GitHub:
+Vá até https://github.com
+
+Clique em "New repository"
+
+Escolha um nome, deixe como público ou privado, e não marque para adicionar README (já que você já criou localmente)
+
+Clique em "Create repository"
+
+✅ 6. Conectar o repositório local ao remoto:
+Substitua URL_DO_REPOSITORIO pela URL gerada no GitHub (ex: https://github.com/seuusuario/nome-do-repo.git):
+
+git branch -M main
+
+git remote add origin URL_DO_REPOSITORIO
+
+✅ 7. Enviar os arquivos (push) para o GitHub:
+
+git push -u origin main
+
+Isso define a branch principal como main (padrão no GitHub) e envia o conteúdo para lá.
+
+✅ (Opcional) Verificar a URL remota configurada:
+
+git remote -v
+
