@@ -1,0 +1,24 @@
+# Dependências
+node_modules/
+
+# Chaves e variáveis de ambiente (importante se usa API de IA)
+.env
+.env.*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+github.txt
+
+# Build
+dist/
+build/
